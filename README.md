@@ -1,0 +1,2 @@
+# multiresource_deploy_Terraform_count_metaargument
+ Terraform Azure Multi Resource Deployment
